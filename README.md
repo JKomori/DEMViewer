@@ -3,6 +3,7 @@
 
 DEM Viewer is an application to display 3D elevation maps on blender. This application provides a higher degree of freedom and enables users to output higher quality map images than other GIS software by utilizing the features of the graphics software. 
 
+![](img/Aso_SS.png)
 
 ### Acknowledgments
 
