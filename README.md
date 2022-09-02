@@ -7,6 +7,7 @@ DEM Viewer is an application to display 3D elevation maps on blender. This appli
 
 ### Files
 TerrainViewer_V2.21.blend — Blender file packing geometry nodes (TerrainViewer_RRIM and Scale_bar) and shader (004_RRIM.N). No add-on is required; simply open this file and import your tif.
+
 TerrainViewer_V2.21_Sample.blend — A sample DEM (2.98MB) is packed. Download this file to try the application.
 
 ### Manual
@@ -21,6 +22,20 @@ TerrainViewer_V2.21_Sample.blend — A sample DEM (2.98MB) is packed. Download t
 ■ Save the extent of the map
 
 #### 1. Import DEM
+<img src="img/Import.png" width="240px">
+In the right frame, select [Texture] (checker icon) -> [Open]
+<img src="img/Raw.png" width="200px">
+Set [Color Space] -> [Raw]
+
+#### 2. Display DEM
+<img src="img/Display.png" width="240px">
+Move to [Modifier Properties] (spanner icon) -> Click the black form denoted [DEM] -> select the imported DEM file
+
+Adjust the map extent: X1: western end, X2: eastern end, Y1, southern end, Y2: northern end
+
+#### 3. Display adjustment
+<img src="img/Adjust.png" width="620px">
+
 
 ### Acknowledgments
 
