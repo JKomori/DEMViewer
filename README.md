@@ -33,6 +33,8 @@ Move to [Modifier Properties] (spanner icon) -> Click the black form denoted [DE
 
 Adjust the map extent: X1: western end, X2: eastern end, Y1, southern end, Y2: northern end
 
+When the map is out of the sight: Select the object "TerrainViewer_V2.21" in the top right frame. Place the mouse cursor on 3D Viewpoint (the main panel) and press Numberpad [.].
+
 #### 3. Display adjustment
 <img src="img/Adjust.png" width="620px">
 
