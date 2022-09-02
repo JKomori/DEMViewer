@@ -33,7 +33,7 @@ Move to [Modifier Properties] (spanner icon) -> Click the black form denoted [DE
 
 Adjust the map extent: X1: western end, X2: eastern end, Y1, southern end, Y2: northern end
 
-When the map is out of the sight, press [Home].
+When the map is out of the sight, press [Home] key.
 
 #### 3. Display adjustment
 <img src="img/Adjust.png" width="620px">
