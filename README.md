@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/530143239.svg)](https://zenodo.org/badge/latestdoi/530143239)
+
 # DEM Viewer
 ### What is DEM Viewer?
 
